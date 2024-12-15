@@ -1,7 +1,7 @@
 # README: Smart camera in the product shop    MLE(Make Life Easier)
 
 ## Project Overview
-This B2B project aims to revolutionize the shopping experience by creating a real-time system that analyzes goods, adds them to a virtual cart, and displays the shopping list on a screen. Shoppers no longer need to manually scan items or interact with cashiers—simply holding the item up to the camera completes the process. 🎈
+This B2B project aims to revolutionize the shopping experience by creating a real-time system that analyzes goods, adds them to a virtual cart, and displays the shopping list on a screen. Shoppers no longer need to manually scan items or interact with cashiers—simply holding the item up to the camera completes the process. 
 
 ---
 
