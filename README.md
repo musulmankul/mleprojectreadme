@@ -5,17 +5,17 @@ This B2B project aims to revolutionize the shopping experience by creating a rea
 
 ---
 
-## Mission 🚀
+## Mission
 To design an innovative and convenient system that accelerates shopping for everyday goods, minimizing time spent and enhancing customer comfort in retail stores.
 
 ---
 
-## Introduction 🌐
+## Introduction
 Modern lifestyles demand fast and efficient solutions for everyday tasks, including shopping. This system caters to individuals buying small quantities of items like ice cream, drinks, or snacks. Rather than replacing retail staff, the system offers an additional self-service option to enhance customer satisfaction and convenience.
 
 ---
 
-## Goals 🏆
+## Goals
 - Accelerate the process of buying small items.
 - Provide an easy-to-use self-service solution.
 - Reduce operational costs by downsizing staff.
@@ -24,7 +24,7 @@ Modern lifestyles demand fast and efficient solutions for everyday tasks, includ
 
 ---
 
-## Objectives 🔄
+## Objectives
 1. **Machine Vision System**: Instantly identify products.
 2. **Virtual Shopping Cart**: Develop a user-friendly design.
 3. **Dynamic Transactions**: Enable adding and deleting items from the shopping list.
@@ -34,7 +34,7 @@ Modern lifestyles demand fast and efficient solutions for everyday tasks, includ
 
 ---
 
-## Project Strategy ⚖️
+## Project Strategy
 - **Efficient Shopping**: The machine vision system identifies products and updates the virtual cart, eliminating manual scanning.
 - **User-Friendly Interface**: Customers can select their preferred language and customize settings for a personalized experience.
 - **Flexible Payments**: Options include bank cards, mobile payments, and QR codes to cater to all customer preferences.
@@ -44,7 +44,7 @@ Modern lifestyles demand fast and efficient solutions for everyday tasks, includ
 
 ---
 
-## Key Features 🌟
+## Key Features
 - **Real-Time Goods Analysis**
 - **Virtual Shopping Cart Display**
 - **Multi-Language Support**
@@ -54,7 +54,7 @@ Modern lifestyles demand fast and efficient solutions for everyday tasks, includ
 
 ---
 
-## System Workflow ⏳
+## System Workflow
 1. Customer picks an item and presents it to the camera.
 2. The system identifies the item using machine vision.
 3. The item is added to a virtual shopping cart displayed on-screen.
@@ -62,7 +62,7 @@ Modern lifestyles demand fast and efficient solutions for everyday tasks, includ
 
 ---
 
-## Visual Representation 🖼
+## Visual Representation
 1. **System Interface**:
    - A sleek virtual cart display.
    - User-friendly buttons for adding/removing items.
@@ -75,7 +75,7 @@ Modern lifestyles demand fast and efficient solutions for everyday tasks, includ
 
 ---
 
-## Getting Started 🔧
+## Getting Started
 1. Clone the repository and install dependencies.
 2. Set up the machine vision system with pre-trained models.
 3. Customize the interface and integrate payment options.
@@ -83,6 +83,6 @@ Modern lifestyles demand fast and efficient solutions for everyday tasks, includ
 
 ---
 
-## Contact & Support 📞
+## Contact & Support
 For any queries or issues, contact our support team available 24/7 via email or phone. Let us know your feedback to improve the system further!
 
